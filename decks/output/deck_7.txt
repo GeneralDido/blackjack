@@ -1,0 +1,3 @@
+sam
+sam: C4, D6, S8
+dealer: H5, C7, HQ
